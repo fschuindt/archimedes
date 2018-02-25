@@ -2,11 +2,11 @@
 
 A small containerized, concurrent and supervised Fibonacci Telnet server written in Elixir. It calculates a given `n` term position of the Fibonacci sequence not by iteration but with the following formula:
 
-![Fibonacci Formula](https://s30.postimg.org/ndks6gohd/fib_formula.jpg)
+![Fibonacci Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/caa29fdc2d6f222745432c2f13edc1f9ed6ba4a6)
 
 It's part of my study in Elixir.
 
-Details about the formula calculation can be found [here](https://fschuindt.github.io/blog/2017/09/21/concurrent-calculation-of-fibonacci-in-elixir.html).
+Details about the formula calculation can be found [here](https://fschuindt.github.io/blog/2017/09/21/concurrent-calculation-of-fibonacci-in-elixir.html) and [here](https://en.wikipedia.org/wiki/Fibonacci_number).
 
 ## Usage
 

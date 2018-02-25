@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  archimedes:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      PORT: 7171
+    ports:
+      - "7171:7171"

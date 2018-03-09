@@ -2,7 +2,7 @@
 
 A small containerized, concurrent and supervised Fibonacci Telnet server written in Elixir. It calculates a given `n` term position of the Fibonacci sequence not by iteration but with the following formula:
 
-![Fibonacci Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/caa29fdc2d6f222745432c2f13edc1f9ed6ba4a6)
+![Fibonacci Formula](https://s30.postimg.org/ndks6gohd/fib_formula.jpg)
 
 It's part of my study in Elixir.
 
